@@ -1,0 +1,10 @@
+C:\Users\khayk\Desktop\2019_Moduls\Computer Graphical Programming\GrafPack\GrafPack\GrafPack\obj\Debug\GrafPack.csprojAssemblyReference.cache
+C:\Users\khayk\Desktop\2019_Moduls\Computer Graphical Programming\GrafPack\GrafPack\GrafPack\obj\Debug\GrafPack.Properties.Resources.resources
+C:\Users\khayk\Desktop\2019_Moduls\Computer Graphical Programming\GrafPack\GrafPack\GrafPack\obj\Debug\GrafPack.csproj.GenerateResource.cache
+C:\Users\khayk\Desktop\2019_Moduls\Computer Graphical Programming\GrafPack\GrafPack\GrafPack\obj\Debug\GrafPack.csproj.CoreCompileInputs.cache
+C:\Users\khayk\Desktop\2019_Moduls\Computer Graphical Programming\GrafPack\GrafPack\GrafPack\bin\Debug\GrafPack.exe.config
+C:\Users\khayk\Desktop\2019_Moduls\Computer Graphical Programming\GrafPack\GrafPack\GrafPack\bin\Debug\GrafPack.exe
+C:\Users\khayk\Desktop\2019_Moduls\Computer Graphical Programming\GrafPack\GrafPack\GrafPack\bin\Debug\GrafPack.pdb
+C:\Users\khayk\Desktop\2019_Moduls\Computer Graphical Programming\GrafPack\GrafPack\GrafPack\obj\Debug\GrafPack.exe
+C:\Users\khayk\Desktop\2019_Moduls\Computer Graphical Programming\GrafPack\GrafPack\GrafPack\obj\Debug\GrafPack.pdb
+C:\Users\khayk\Desktop\2019_Moduls\Computer Graphical Programming\GrafPack\GrafPack\GrafPack\obj\Debug\GrafPack.GrafPack.resources
